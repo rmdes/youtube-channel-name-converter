@@ -1,4 +1,4 @@
-## youtube-channel-name-converter
+## Convert youtube channelName to channelId
 
 1. terminal: `$ bower update`
 2. browser: open `index.html`
