@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Youtube Channel Name to ID Converter</title>
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/apiNG/dist/aping.min.js"></script>
+
+    <script src="js/app.js"></script>
+</head>
+<body ng-app="app" ng-controller="appController">
+
+<input type="text" ng-model="apiKey" placeholder="api key">
+<input type="text" ng-model="channelName" placeholder="channel name">
+<button ng-click="display()">Get channel id</button>
+
+<div ng-include src="templateUrl"></div>
+
+</body>
+</html>
