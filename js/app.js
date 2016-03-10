@@ -28,7 +28,7 @@ angular.module('app')
                     });
             } else {
                 $scope.isError = true;
-                $scope.errorMessage = "No Channel Name defined";
+                $scope.errorMessage = "No Youtube User Name defined";
             }
         };
     });
