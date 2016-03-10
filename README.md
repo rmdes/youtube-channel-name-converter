@@ -1,8 +1,7 @@
-## Convert youtube channelName to channelId
+## Convert your Youtube Channel Name to Channel ID
 
-1. terminal: `$ bower update`
-2. browser: open `index.html`
-3. fill in your youtube `api key`
-4. fill in the youtube `channel name`
-5. press button `Get channel id`
-6. copy your channel id
+[logo]: converter.png "youtube-channel-name-converter"
+![youtube-channel-name-converter][logo]
+
+
+URL: [johnnythetank.github.io/youtube-channel-name-converter ](http://johnnythetank.github.io/youtube-channel-name-converter)
