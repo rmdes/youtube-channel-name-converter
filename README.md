@@ -1,4 +1,4 @@
-## Convert your Youtube Channel Name to Channel ID
+## Convert your Youtube Username to Channel ID
 
 [Click here](http://johnnythetank.github.io/youtube-channel-name-converter)
 
