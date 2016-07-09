@@ -17,8 +17,6 @@ angular.module('app')
                 jsonloaderFactory.getJsonData({path: "https://www.googleapis.com/youtube/v3/channels?key=AIzaSyDsGZDPI461UR5JvTysAqv7PW7HSzj50KU&forUsername=" + $scope.channelName + "&part=id"})
                     .then(function (_data) {
 
-                        console.log(_data);
-
                         if (_data.data && _data.data.items && _data.data.items[0] && _data.data.items[0].id) {
                             $scope.channelId = _data.data.items[0].id;
                         } else {
