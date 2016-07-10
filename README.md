@@ -2,8 +2,6 @@
 
 [Click here](http://johnnythetank.github.io/youtube-channel-name-converter)
 
-[logo]: converter.png "youtube-channel-name-converter"
-![youtube-channel-name-converter][logo]
-
+[![youtube-channel-name-converter](converter.png)](http://johnnythetank.github.io/youtube-channel-name-converter)
 
 [Click here](http://johnnythetank.github.io/youtube-channel-name-converter)
